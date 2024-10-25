@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "RSUD Hasan Sadikin",
+        "description": "RSUD Hasan Sadikin, atau Rumah Sakit Umum Daerah Hasan Sadikin, adalah rumah sakit publik yang terletak di Bandung, Indonesia. Didirikan pada tahun 1926, rumah sakit ini berfungsi sebagai fasilitas kesehatan utama di Jawa Barat, menyediakan berbagai layanan medis untuk masyarakat. Rumah sakit ini dinamai setelah Dr. Hasan Sadikin, tokoh penting dalam bidang kedokteran di Indonesia. RSUD Hasan Sadikin menawarkan berbagai departemen spesialis, termasuk penyakit dalam, bedah, pediatri, dan obstetri, serta dilengkapi dengan teknologi medis modern dan tenaga medis berpengalaman. Sebagai rumah sakit rujukan, RSUD Hasan Sadikin memainkan peran penting dalam sistem kesehatan regional, memberikan layanan darurat dan perawatan medis tingkat lanjut."
+      },
+      "geometry": {
+        "coordinates": [
+          107.59858424295373,
+          -6.898009077345677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gedung Sate",
+        "description": "Gedung Sate adalah bangunan ikonik yang terletak di Bandung, Indonesia. Dibangun pada akhir tahun 1920-an, Gedung ini awalnya berfungsi sebagai kantor pemerintahan Hindia Belanda di Jawa Barat. Menampilkan gaya arsitektur yang unik, Gedung Sate memadukan elemen Art Deco dengan tradisional Indonesia. Ciri khasnya adalah tusuk sate yang menghiasi atapnya, yang menjadi inspirasi nama Gedung Sate. Saat ini, Gedung ini menjadi kantor Gubernur Jawa Barat dan simbol sejarah serta budaya daerah tersebut."
+      },
+      "geometry": {
+        "coordinates": [
+          107.6187726631457,
+          -6.902623180523818
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
