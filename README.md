@@ -28,7 +28,7 @@ This is a GIS (Geographic Information System) web application built using React,
 Ensure you have **Node.js** and **npm** (or **pnpm**) installed. Then, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/gis-web.git
+git clone https://github.com/BBW-TEST/test-swifmind
 cd gis-web
 pnpm install
 ```
